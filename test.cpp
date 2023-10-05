@@ -10,5 +10,6 @@ int main(){
     int b;
     cout<<(~a)+1<<' '<<'\n';
     cout<<hexfloat<<1.25;
+    cout<<"haha";
     return 0;
 }
